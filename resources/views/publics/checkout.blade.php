@@ -65,7 +65,7 @@
                     @php
                     } else {
                     @endphp 
-                    <a href="{{lang_url('products')}}" class="green-btn">{{__('public_pages.first_need_add_products')}}</a><br>
+                    <a href="{{lang_url('show-products')}}" class="green-btn">{{__('public_pages.first_need_add_products')}}</a><br>
                     @php 
                     }
                     @endphp
